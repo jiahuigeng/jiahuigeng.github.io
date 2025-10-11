@@ -23,7 +23,7 @@ repository               : "jiahuigeng/jiahuigeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.jpg"
   name             : "Jiahui Geng (耿佳辉)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at MBZUAI. Incoming Assistant Professor at Linköping University. Research on AI safety, trustworthiness, and alignment."
