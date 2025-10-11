@@ -12,3 +12,22 @@ I am currently a postdoctoral researcher at the [Mohamed bin Zayed University of
 My research interests center on the **safety, trustworthiness, and alignment of large language models**, as well as **agentic AI**, **information retrieval**, and **code generation**. I aim to build reliable and transparent AI systems that can reason, act, and collaborate safely with humans. I have published papers at top-tier venues including NeurIPS, ICCV, ACL, EMNLP, NAACL, AAAI, and IJCAI, and I currently serve as an Area Chair for ACL ARR.
 
 I am always open to academic discussions and collaborations—feel free to reach out if you share similar interests!
+
+## News
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+    <div style="font-weight: bold; color: #666; min-width: 120px;">2025年5月</div>
+    <div style="flex: 1; margin-left: 20px;">1篇文章被ICCV 2025接受</div>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+    <div style="font-weight: bold; color: #666; min-width: 120px;">2025年3月</div>
+    <div style="flex: 1; margin-left: 20px;">5篇文章被ACL 2025接受 (4 Main, 1 Findings)</div>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+    <div style="font-weight: bold; color: #666; min-width: 120px;">2024年12月</div>
+    <div style="flex: 1; margin-left: 20px;">1篇文章被AAAI 2025接受</div>
+  </div>
+</div>
