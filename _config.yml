@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiahui Geng / 学术主页"
+title                    : "Jiahui Geng"
 title_separator          : "-"
 name                     : &name "Jiahui Geng"
-description              : &description "Academic Page"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Postdoctoral Researcher at MBZUAI | Incoming Assistant Professor at Linköping University"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://jiahuigeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jiahuigeng/jiahuigeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiahui Geng (耿佳辉)"
   pronouns         : # example: "she/her"  
-  bio              : "请在此处添加您的简短个人简介"
-  location         : "您的所在城市, 国家"
-  employer         : "您的工作单位或大学"
+  bio              : "Postdoctoral Researcher at MBZUAI. Incoming Assistant Professor at Linköping University. Research on AI safety, trustworthiness, and alignment."
+  location         : "Abu Dhabi, UAE"
+  employer         : "Mohamed bin Zayed University of Artificial Intelligence"
   uri              : # URL
   email            : "jangandalf365@gmail.com" 
 
@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/您的ORCID-ID"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/您的ResearchGate用户名"
+  pubmed           : # URL
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
