@@ -17,17 +17,17 @@ I am always open to academic discussions and collaborations—feel free to reach
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
-    <div style="font-weight: bold; color: #666; min-width: 120px;">2025年5月</div>
-    <div style="flex: 1; margin-left: 20px;">1篇文章被ICCV 2025接受</div>
+    <div style="font-weight: bold; color: #666; min-width: 120px;">May 2025</div>
+    <div style="flex: 1; margin-left: 20px;">1 paper accepted to ICCV 2025</div>
   </div>
   
   <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
-    <div style="font-weight: bold; color: #666; min-width: 120px;">2025年3月</div>
-    <div style="flex: 1; margin-left: 20px;">5篇文章被ACL 2025接受 (4 Main, 1 Findings)</div>
+    <div style="font-weight: bold; color: #666; min-width: 120px;">March 2025</div>
+    <div style="flex: 1; margin-left: 20px;">5 papers accepted to ACL 2025 (4 Main, 1 Findings)</div>
   </div>
   
   <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #eee; padding-bottom: 8px;">
-    <div style="font-weight: bold; color: #666; min-width: 120px;">2024年12月</div>
-    <div style="flex: 1; margin-left: 20px;">1篇文章被AAAI 2025接受</div>
+    <div style="font-weight: bold; color: #666; min-width: 120px;">December 2024</div>
+    <div style="flex: 1; margin-left: 20px;">1 paper accepted to AAAI 2025</div>
   </div>
 </div>
