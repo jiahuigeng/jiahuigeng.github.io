@@ -33,31 +33,46 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Stavanger & MSCA CLARIFY",
+      "area": "Ph.D., Faculty of Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "October 2020",
+      "endDate": "September 2023",
       "gpa": null,
-      "courses": []
+      "location": "Stavanger, Norway",
+      "details": [
+        "Thesis: Taking Computation to Data: Integrating Privacy-preserving AI techniques and Blockchain allowing secure analysis of sensitive data on premise",
+        "Advisors: Prof. Chunning Rong & Prof. Martin Gilje Jaatun",
+        "Academic Visits: Sept 2022–Oct 2022 with Prof. Hans-Arno Jacobsen, Technical University of Munich, Germany",
+        "Academic Visits: May 2022–July 2022 with Prof. Rafael Molina, University of Granada, Spain",
+        "Academic Visits: May 2021–July 2021 with Prof. Zhiming Zhao, University of Amsterdam, Netherlands"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "RWTH Aachen University",
+      "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "September 2015",
+      "endDate": "October 2018",
       "gpa": null,
-      "courses": []
+      "location": "Aachen, Germany",
+      "details": [
+        "Thesis: Unsupervised Learning of Neural Network Lexicon and Cross-lingual Word Embedding",
+        "Advisor: Prof. Hermann Ney"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Southeast University",
+      "area": "B.S. in Automation",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "September 2011",
+      "endDate": "June 2015",
       "gpa": null,
-      "courses": []
+      "location": "Nanjing, China",
+      "details": [
+        "Thesis: Automatic Recognition of Road Markings Based on 3D Vision Transformation",
+        "Advisor: Prof. Shihua Li"
+      ]
     }
   ],
   "skills": [],

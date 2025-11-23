@@ -11,9 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* University of Stavanger & MSCA CLARIFY — Ph.D., Faculty of Computer Science, Stavanger, Norway
+  * October 2020 – September 2023
+  * Thesis Topic: Taking Computation to Data: Integrating Privacy-preserving AI techniques and Blockchain allowing secure analysis of sensitive data on premise
+  * Advisors: Prof. Chunning Rong & Prof. Martin Gilje Jaatun
+  * Academic Visits:
+    * Sept 2022 – Oct 2022: Prof. Hans-Arno Jacobsen, Technical University of Munich, Germany
+    * May 2022 – July 2022: Prof. Rafael Molina, University of Granada, Spain
+    * May 2021 – July 2021: Prof. Zhiming Zhao, University of Amsterdam, Netherlands
+
+* RWTH Aachen University — M.S. in Computer Science, Aachen, Germany
+  * September 2015 – October 2018
+  * Thesis Topic: Unsupervised Learning of Neural Network Lexicon and Cross-lingual Word Embedding
+  * Advisor: Prof. Hermann Ney
+
+* Southeast University — B.S. in Automation, Nanjing, China
+  * September 2011 – June 2015
+  * Thesis Topic: Automatic Recognition of Road Markings Based on 3D Vision Transformation
+  * Advisor: Prof. Shihua Li
 
 Work experience
 ======
