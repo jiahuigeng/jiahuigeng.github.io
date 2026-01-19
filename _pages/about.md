@@ -11,7 +11,7 @@ I am currently an Assistant Professor at the AIICS division of [Linköping Unive
 
 My research interests center on the **safety, trustworthiness, and alignment of large language models**, as well as **agentic AI**, **information retrieval**, and **code generation**. I aim to build reliable and transparent AI systems that can reason, act, and collaborate safely with humans. I have published papers at top-tier venues including NeurIPS, ICCV, ACL, EMNLP, NAACL, AAAI, and IJCAI, and I currently serve as an Area Chair for ACL ARR.
 
-I welcome students interested in AI research to contact me, especially students from Linköping University, for discussion and publication.
+<span style="color: darkred;">I welcome students interested in AI research to contact me, especially students from Linköping University, for discussion and publication.</span>
 
 ## News
 
